@@ -6,7 +6,7 @@
 
 The overall framework of PointTransformerDDA+.
 
-![point_transformer](docs\point_transformer.png)
+![point_transformer](docs/point_transformer.png)
 
 
 
