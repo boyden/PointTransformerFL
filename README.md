@@ -59,3 +59,20 @@ python main_her2_FL.py --fl_avg FedAvg --exp_code PointTransformerDDA --aux 1.0
 # PointTransformer with FCS and DDA
 python main_her2_FL.py --fl_avg FedAvg --exp_code PointTransformerDDA+ --aux 1.0 --fast_sim
 ```
+
+## Reference By
+[qq456cvb/Point-Transformers](https://github.com/qq456cvb/Point-Transformers)<br>
+[mahmoodlab/HistoFL](https://github.com/mahmoodlab/HistoFL)
+
+## Cite
+If it is helpful for your work, please cite this paper:
+```tex
+@misc{li2023point,
+      title={Point Transformer with Federated Learning for Predicting Breast Cancer HER2 Status from Hematoxylin and Eosin-Stained Whole Slide Images}, 
+      author={Bao Li and Zhenyu Liu and Lizhi Shao and Bensheng Qiu and Hong Bu and Jie Tian},
+      year={2023},
+      eprint={2312.06454},
+      archivePrefix={arXiv},
+      primaryClass={eess.IV}
+}
+```
