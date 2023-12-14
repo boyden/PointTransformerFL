@@ -1,5 +1,12 @@
-# Point Transformer with Federated Learning for Predicting Breast Cancer HER2  Status from Hematoxylin and Eosin-Stained Whole Slide Images
+# PointTransformerFL
 
+Official PyTorch implementation for the following paper:
+
+**Point Transformer with Federated Learning for Predicting Breast Cancer HER2  Status from Hematoxylin and Eosin-Stained Whole Slide Images**
+
+*by [Bao Li](https://boyden.github.io), Zhenyu Liu, Lizhi Shao, Bensheng Qiu, Hong Bu, Jie Tian*
+
+### [[arXiv]](https://arxiv.org/abs/2206.04670)
 
 
 ## PointTransformerDDA+
