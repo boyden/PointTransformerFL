@@ -8,6 +8,8 @@ Official PyTorch implementation for the following paper:
 
 ### [[arXiv]](https://arxiv.org/abs/2206.04670)
 
+### 🔥 News
+- *2023.12*: 🎉 PointTransformerFL is accepted by AAAI 2024!
 
 ## PointTransformerDDA+
 
