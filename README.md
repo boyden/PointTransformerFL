@@ -7,7 +7,7 @@ Official PyTorch implementation for the following paper:
 >  [Bao Li](https://boyden.github.io), Zhenyu Liu, Lizhi Shao, Bensheng Qiu, Hong Bu, Jie Tian
 
 
-### [[arXiv]](https://arxiv.org/abs/2206.04670)
+### [[arXiv]](https://arxiv.org/abs/2312.06454)
 
 ### 🔥 News
 - *2023.12*: 🎉 PointTransformerFL is accepted by AAAI 2024!
