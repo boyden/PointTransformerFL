@@ -77,12 +77,13 @@ python main_her2_FL.py --fl_avg FedAvg --exp_code PointTransformerDDA+ --aux 1.0
 ## Cite
 If it is helpful for your work, please cite this paper:
 ```tex
-@misc{li2023point,
-      title={Point Transformer with Federated Learning for Predicting Breast Cancer HER2 Status from Hematoxylin and Eosin-Stained Whole Slide Images}, 
-      author={Bao Li and Zhenyu Liu and Lizhi Shao and Bensheng Qiu and Hong Bu and Jie Tian},
-      year={2023},
-      eprint={2312.06454},
-      archivePrefix={arXiv},
-      primaryClass={eess.IV}
+@inproceedings{li2024point,
+  title={Point Transformer with Federated Learning for Predicting Breast Cancer HER2 Status from Hematoxylin and Eosin-Stained Whole Slide Images},
+  author={Li, Bao and Liu, Zhenyu and Shao, Lizhi and Qiu, Bensheng and Bu, Hong and Tian, Jie},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={38},
+  number={4},
+  pages={3000--3008},
+  year={2024}
 }
 ```
