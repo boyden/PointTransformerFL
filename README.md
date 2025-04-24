@@ -38,6 +38,7 @@ pip install -r requirements.txt
 
 ## Run Experiments
 For feature extractor, we use the model trained with nuclei instance segmentation tasks. Please refer the repo [NuHTC](https://github.com/boyden/NuHTC).
+
 Demo for debug the model. We put some point data from public HEROHE dataset in the HER2 directory 
 
 ```bash
